@@ -2,11 +2,13 @@
 Fundamentals of Data Analysis
 
 ## Description and Intro
-I will require Jupyter [5] notebook ???
+Anscombe's quartet comprises four datasets which are analysed in a Jupyter notebook I have created. The notebook consist of four main focuses:
+1. Explanation of the background to the dataset.
+2. Plotting interesting aspects of the dataset.
+3. Calculating the descriptive statistics of the variables in the dataset.
+4. Explaining why the dataset is interesting by referring to the plots and statistics created in my notebook.
 
-Anscombe's quartet comprises four datasets that have nearly identical simple descriptive statistics, yet appear very different when graphed. Each dataset consists of eleven (x,y) points. They were constructed in 1973 by the statistician Francis Anscombe to demonstrate both the importance of graphing data before analyzing it and the effect of outliers on statistical properties. He described the article as being intended to counter the impression among statisticians that "numerical calculations are exact, but graphs are rough. Source was teke from https://en.wikipedia.org/wiki/Anscombe%27s_quartet 
+## Summary
+Final findings:
 
-
-## Plot and Analysis
-
-## Statistics on the Dataset maybe include additional url link to other equations? Have a look at the github they have created in the videos
+## URL Link 
