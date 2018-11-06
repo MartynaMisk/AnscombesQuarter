@@ -1,12 +1,16 @@
 # AnscombesQuarter
-Fundamentals of Data Analysis
+Anscombe’s Quartet Dataset was created by Francis Anscombe and it represents four datasets that have same statistical properties but differ significantly when plotted in four individual’s graphs. Assignment can be found in the ![Jupyter Notebook](https://github.com/MartynaMisk/AnscombesQuartet/blob/master/InvestigationAnscombesQuartet.ipynb).
 
-## Description and Intro
-Anscombe's quartet comprises four datasets which are analysed in a Jupyter notebook I have created. The notebook consist of four main focuses:
+![Graph](https://github.com/MartynaMisk/AnscombesQuartet/blob/master/graph/anscombes-quartet.png)
+
+## Description of the main focus of the Assignment:
+
 1. Explanation of the background to the dataset.
 2. Plotting interesting aspects of the dataset.
 3. Calculating the descriptive statistics of the variables in the dataset.
 4. Explaining why the dataset is interesting by referring to the plots and statistics created in my notebook.
+
+### 
 
 ## Summary
 Final findings:
