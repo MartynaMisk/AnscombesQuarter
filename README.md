@@ -10,9 +10,8 @@ Anscombe’s Quartet Dataset was created by Francis Anscombe and it represents f
 3. Calculating the descriptive statistics of the variables in the dataset.
 4. Explaining why the dataset is interesting by referring to the plots and statistics created in my notebook.
 
-### 
-
 ## Summary
-Final findings:
+Data visualization should be an essential step in Analaysing any Data.
 
 ## URL Link 
+Assignment can be found in the ![Jupyter Notebook](https://github.com/MartynaMisk/AnscombesQuartet/blob/master/InvestigationAnscombesQuartet.ipynb).
